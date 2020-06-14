@@ -1,3 +1,7 @@
+[![codecov](https://codecov.io/gh/garrettsparks/idgen/branch/master/graph/badge.svg)](https://codecov.io/gh/garrettsparks/idgen)
+[![Go Report Card](https://goreportcard.com/badge/github.com/garrettsparks/idgen)](https://goreportcard.com/report/github.com/garrettsparks/idgen)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=garrettsparks_idgen&metric=alert_status)](https://sonarcloud.io/dashboard?id=garrettsparks_idgen)
+
 # idgen
 --
     import "github.com/garrettsparks/idgen"
